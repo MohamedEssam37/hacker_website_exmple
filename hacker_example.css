@@ -1,0 +1,53 @@
+body{
+    background-color: beige;
+}
+#header{
+    text-align: center;
+    border-bottom: 15px double rgb(255, 98, 0);
+}
+
+form{
+    text-align: center;
+}
+
+.input{
+    width: 30vw;
+    font-size: 20px;
+    border: 2px solid green;
+}
+
+label{
+    display: inline-block;
+    width: 20vw;
+    font-size: 19px;
+    text-align: right;
+}
+
+#sumbit{
+    background-color: greenyellow;
+    border: 2px groove rgb(5, 92, 5);
+    min-height: 7vh;
+    max-height: 15vh;
+    min-width: 20vw;
+    max-width: 30vw;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+#reset{
+    background-color: rgb(255, 157, 0);
+    border: 2px groove rgb(89, 67, 0);
+    min-height: 7vh;
+    max-height: 15vh;
+    min-width: 20vw;
+    max-width: 30vw;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+#example_of_hacker{
+    position: fixed;
+    bottom: 0;
+    right:0;
+    font-size: larger;
+}
