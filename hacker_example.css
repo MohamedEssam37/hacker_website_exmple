@@ -17,6 +17,7 @@ form{
 }
 
 label{
+    text-wrap: nowrap;
     display: inline-block;
     width: 20vw;
     font-size: 19px;
@@ -48,6 +49,6 @@ label{
 #example_of_hacker{
     position: fixed;
     bottom: 0;
-    right: 10px;
+    right:10px;
     font-size: larger;
 }
